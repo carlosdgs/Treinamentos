@@ -1,0 +1,31 @@
+Spring Boot + Spring Data JPA + Bootstrap --https://www.youtube.com/watch?v=mG6zPc-L85w
+Crie um Site Responsivo com Bootstrap 3 do ZERO -- https://www.youtube.com/watch?v=TC_66K6rkGA
+Spring Boot Spring Data JPA Hibernate Bootstrap CRUD Example - Spring Boot tutorial for Beginners --https://www.youtube.com/watch?v=zlc6DSyPFlQ
+https://www.jackrutorial.com/2018/05/spring-data-jpa-crud-example-spring-boot-tutorial.html
+
+Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Example--  https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/ 
+
+Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial  -- https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+
+Spring Boot + Spring Security + JWT + MySQL + React Full Stack Polling App Part (1:4) -- https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-1/
+
+Criando Telas de CRUD com Bootstrap  -- https://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte2/
+
+Exemplo de impressao a partir do bootstrap -- http://jsfiddle.net/gFtUY/
+
+-- Diferenca entre Node.js e AngularJs
+Node.js
+
+É um interpretador de código JavaScript que funciona do lado do servidor. Seu objetivo é ajudar programadores na criação de aplicações de alta escalabilidade (como um servidor web), com códigos capazes de manipular dezenas de milhares de conexões simultâneas, numa única máquina física. O Node.js é baseado no interpretador V8 JavaScript Engine (interpretador de JavaScript open source implementado pelo Google em C++ e utilizado pelo Chrome). Foi criado por Ryan Dahl em 2009, e seu desenvolvimento é mantido pela empresa Joyent, onde Dahl trabalha.
+
+AngularJS
+
+AngularJS é um framework JavaScript open-source que roda no lado do client(navegador), mantido pelo Google, que auxilia na execução de single-page applications. Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador web, foi construído sob o padrão model-view-view-model (MVVM), em um esforço para facilitar tanto o desenvolvimento quanto o teste dos aplicativos.
+
+A biblioteca lê o HTML que contém tags especiais e então executa a diretiva na qual esta tag pertence, e faz a ligação entre a apresentação e seu modelo, representado por variáveis JavaScript comuns. O valor dessas variáveis JavaScript podem ser setadas manualmente, ou via um recurso JSON estático ou dinâmico.
+
+Resumindo 
+ o AngularJS é um framework para desenvolvimento no frontend 
+ e o NodeJS é para desenvolvimento backend, e os dois usam o JavaScript como linguagem de programação.
+ 
+ 
